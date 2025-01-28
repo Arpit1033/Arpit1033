@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/arpit dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit dubey" height="30" width="40" /></a>
 <a href="https://kaggle.com/arpit dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpit dubey" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arpit_559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpit_559" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arpit_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arpit_iiitl" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thomas_5791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arpit_iiitl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
