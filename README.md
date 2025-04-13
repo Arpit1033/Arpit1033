@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit Dubey</h1>
-<h3 align="center">🚀 Engineering Student | 📊 Data Enthusiast | 💻 Code Explorer"</h3>
+<h3 align="center">🚀 Engineering Student | 📊 Django Developer | 💻 Code Explorer"</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1033&label=Profile%20views&color=0e75b6&style=flat" alt="arpit1033" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Data Science, Web Development, Competitive Programming**
+- 💬 Ask me about **Django, Web Development, Problem Solving**
 
 - 📫 How to reach me **dubey1033arpit@gmail.com**
 
