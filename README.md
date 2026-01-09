@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1033&label=Profile%20views&color=0e75b6&style=flat" alt="arpit1033" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I'm currently learning **Web Development**
 
-- 💬 Ask me about **Django, Web Development, Problem Solving**
+- 💬 Ask me about **Web Development and Problem Solving**
 
 - 📫 How to reach me **dubey1033arpit@gmail.com**
 
