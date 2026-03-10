@@ -27,11 +27,30 @@
 
 **![Workflow / Tools](https://img.shields.io/badge/Workflow_/_Tools-black?style=for-the-badge)** [![linux](https://skillicons.dev/icons?i=linux)](https://docs.kernel.org/) &nbsp; [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc) &nbsp; [![githubactions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions) &nbsp; [![postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/getting-started/introduction/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-woad-kappa-11.vercel.app/api?username=arpit1033&show_icons=true&locale=en&theme=radical&hide_border=true" alt="arpit1033 stats" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-woad-kappa-11.vercel.app/api?username=arpit1033&show_icons=true&locale=en&theme=radical&hide_border=true" alt="arpit1033 stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit1033&theme=radical&hide_border=true" alt="arpit1033" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit1033&theme=radical&hide_border=true" alt="arpit1033" /></p> -->
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-woad-kappa-11.vercel.app/api?username=arpit1033&show_icons=true&locale=en&theme=radical&hide_border=true" alt="arpit1033 stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit1033&theme=radical&hide_border=true" alt="arpit1033 streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-woad-kappa-11.vercel.app/api/top-langs/?username=arpit1033&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 Building cool things in stealth mode... stay tuned! 🚀
 <!--END_SECTION:activity-->
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github.com/arpit1033/arpit1033/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
