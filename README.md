@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1033&label=Profile%20views&color=0e75b6&style=flat" alt="arpit1033" /> </p>
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 - 💬 Ask me about **Web Development and Problem Solving**
 
 - 📫 How to reach me **dubey1033arpit@gmail.com**
@@ -29,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-woad-kappa-11.vercel.app/api?username=arpit1033&show_icons=true&locale=en&theme=radical&hide_border=true" alt="arpit1033 stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit1033&theme=radical&hide_border=true" alt="arpit1033" /></p>
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
