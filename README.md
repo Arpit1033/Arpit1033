@@ -46,7 +46,7 @@
 Building cool things in stealth mode... stay tuned! 🚀
 <!--END_SECTION:activity-->
 
-### 🐍 My Contribution Snake
+### ✨ Activity
 <p align="center">
   <img src="https://github.com/arpit1033/arpit1033/blob/output/github-contribution-grid-snake.svg" />
 </p>
