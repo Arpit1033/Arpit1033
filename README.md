@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit Dubey</h1>
-<h3 align="center">🚀 Engineering Student | 📊 Backend Developer | 💻 Code Explorer"</h3>
+<!-- <h3 align="center">🚀 Engineering Student | 📊 Backend Developer | 💻 Code Explorer</h3> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=300&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Engineering+Student;%F0%9F%8F%A2+Backend+Developer;%F0%9F%92%BB+Code+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,7 +13,7 @@
 
 - 💬 Ask me about **Web Development and Problem Solving**
 
-- 📫 How to reach me **dubey1033arpit@gmail.com**
+- 📬 **How to reach me:** [dubey1033arpit@gmail.com](mailto:dubey1033arpit@gmail.com)
 
 - ⚡ Fun fact **I once accidentally deleted an entire dataset, but don't worry, I made a "backup" with a pencil and some graph paper. Lesson learned: Always save your data... the digital way! 😅📝💾**
 
