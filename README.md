@@ -48,7 +48,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-Building cool things in stealth mode... stay tuned! 🚀
+1. 🎉 Merged PR [#2](https://github.com/Arpit1033/PolicyAware-LLM-Orchestrator/pull/2) in [Arpit1033/PolicyAware-LLM-Orchestrator](https://github.com/Arpit1033/PolicyAware-LLM-Orchestrator)
 <!--END_SECTION:activity-->
 
 ### ✨ Activity
